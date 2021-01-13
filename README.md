@@ -3,7 +3,7 @@ I'm a Biostatistics graduate student at University of Toronto starting from 2021
 
 Currently, I'm working on a few interesting projects at the following places:
 
-- **School of Life Science at Sun yat-sen University**
+- **[Shen-Group](http://www.shen.se/) at Sun yat-sen University**
 
 - **Li Ka Shing Faculty of Medicine at University of Hong Kong**
 
