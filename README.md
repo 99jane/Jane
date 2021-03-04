@@ -1,9 +1,7 @@
 # Hi there, I'm Jiayin Chen
 I'm a Biostatistics graduate student at University of Toronto starting from 2021.
 
-Currently, I'm working on a few interesting projects at the following places:
-
-- **[Shen-Group](http://www.shen.se/) at Sun yat-sen University**
+Currently, I'm working on a few interesting projects at the following place:
 
 - **Li Ka Shing Faculty of Medicine at University of Hong Kong**
 
