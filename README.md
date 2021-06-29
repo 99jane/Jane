@@ -7,7 +7,7 @@ Currently, I'm working on a few interesting projects at the following places:
 - **[Shen-Group](http://www.shen.se/) at Sun yat-sen University**
 
 - **Li Ka Shing Faculty of Medicine at University of Hong Kong**
-- **[SCHOOL OF PUBLIC HEALTH](https://sph.hku.hk/)**
+- **[SCHOOL OF PUBLIC HEALTH - Quan Group](https://github.com/quan-group)**
 
 Also, I worked as an Product Manager intern at PingAn Insurance Company.
 
